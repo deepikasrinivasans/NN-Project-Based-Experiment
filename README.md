@@ -121,25 +121,22 @@ print(x_single_prediction)
 ## Output:
 ### Training Loss, Validation Loss Vs Iteration Plot
 
-![op](./OP.jpg)
+![1NM](https://github.com/deepikasrinivasans/NN-Project-Based-Experiment/assets/119393935/0ca2a8a6-c073-4614-a79e-f3b6e3014c51)
 
-![op](./OP1.jpg)
 
-![op](./OP2.jpg)
+![2NM](https://github.com/deepikasrinivasans/NN-Project-Based-Experiment/assets/119393935/03736eca-8502-4e67-b5a2-1233738be049)
+
+
+![3NM](https://github.com/deepikasrinivasans/NN-Project-Based-Experiment/assets/119393935/c7075e62-7db0-460d-95b9-bf6c8b99ea9e)
 
 ### Classification Report
-
-![op](./OP3CLAS.jpg)
-
+![4NM](https://github.com/deepikasrinivasans/NN-Project-Based-Experiment/assets/119393935/0774dbd6-a9dd-4199-971d-e9c0d41ece15)
 ### Confusion Matrix
-
-![op](./OP3CON.jpg)
-
+![5NM](https://github.com/deepikasrinivasans/NN-Project-Based-Experiment/assets/119393935/2a5ace8b-d6e6-4c0e-ac5c-ecd2fa5b6153)
 ### New Sample Data Prediction
+![6NM](https://github.com/deepikasrinivasans/NN-Project-Based-Experiment/assets/119393935/a2ed5912-f555-415f-adf5-144a0b5dd14a)
 
-![op](./OP5.jpg)
 
-![op](./OP4.jpg)
 
 
 
